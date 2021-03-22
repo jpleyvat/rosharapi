@@ -1,0 +1,28 @@
+{
+  "name": "rosharapi",
+  "version": "1.0.0",
+  "description": "Roshar characters API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jpleyvat/rosharapi.git"
+  },
+  "keywords": [
+    "roshar",
+    "api",
+    "node",
+    "rest"
+  ],
+  "author": "jpleyvat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpleyvat/rosharapi/issues"
+  },
+  "homepage": "https://github.com/jpleyvat/rosharapi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
